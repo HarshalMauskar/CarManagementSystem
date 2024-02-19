@@ -1,7 +1,6 @@
 package com.carService.carService.Repo;
 
 import com.carService.carService.Model.Car;
-import com.carService.carService.Model.Dealar;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
